@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @Data
-public class CinemaItem {
+public class AfishaItem {
     private int cinemaId;
     private String title;
     private String iconUrl;
